@@ -48,6 +48,9 @@ youtubeに投稿されたボーカロイド楽曲だけを抽出し、その中�
 
 最近プロセカも盛り上がっているので、普段niconico動画を使用しない層にもたくさんのボーカロイド楽曲を知ってもらいたいです!
 
+# 画面遷移図
+https://www.figma.com/file/ko6a1353Y9GotB8a8uUYLy/Untitled?node-id=0%3A1
+
 # スケジュール
 
 README〜ER図作成：5/2 〆切
